@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://media.giphy.com/media/xTiQyI0qPIYaMzyyVa/giphy.gif)
+  <img src="https://media.giphy.com/media/xTiQyI0qPIYaMzyyVa/giphy.gif">
 </p>
 
 <!--
